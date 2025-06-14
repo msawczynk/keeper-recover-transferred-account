@@ -220,11 +220,6 @@ The default GitHub Actions workflow:
 
 ---
 
-## License
-MIT – see [`LICENSE`](LICENSE).
-
----
-
 ### Authors
 
 *Maintainer*: **Martin** (with love from the Sales-Engineering cave).  
