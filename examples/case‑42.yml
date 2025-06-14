@@ -1,0 +1,12 @@
+TenantId:    987654
+TargetUser:  alice@corp.com
+AdminUser:   vaultadmin@corp.com
+NewUser:
+  Email:     alice.new@corp.com
+  FullName:  Alice Smith
+  Node:      Engineering
+  SSO:       true
+Options:
+  CreateMode: Invite      # Invite | Add
+  OneTimeShareExpiry: 1d  # 1h, 1d, 2d…
+  DryRun: false
